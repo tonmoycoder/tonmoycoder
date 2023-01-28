@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif" /></p>
 <h1 align="center">Hi 👋, I'm Tanver Islam Tonmoy</h1>
 <h3 align="center">A passionate full-stack web Developer and Designer from Bangladesh</h3>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -40,8 +40,20 @@
 
 <p style="margin-bottom:150px" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoycoder&show_icons=true&locale=en&layout=compact" alt="tonmoycoder" /></p>
 
+## :chart_with_upwards_trend: Current Stats
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoycoder&show_icons=true&locale=en" alt="tonmoycoder" /></p>
 
+## :chart_with_upwards_trend: Current Strike
+<br />
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoycoder&" alt="tonmoycoder" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoycoder" alt="tonmoycoder" /></a></p>
+
+  ## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoycoder&layout=compact&theme=algolia" alt="tonmoycoder" /></a> </p>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
