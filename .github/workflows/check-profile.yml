@@ -1,0 +1,44 @@
+name: Check profile
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - "profile-3d-contrib/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/**"
+  pull_request:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - "profile-3d-contrib/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/**"
+  workflow_dispatch:
+
+# This PR workflow never writes or receives a publishing credential.
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out source without persisting a credential
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Test calendar parsing, SVG safety and README integrity
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Check whitespace errors
+        run: git diff --check

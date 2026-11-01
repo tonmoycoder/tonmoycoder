@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">Math Academy — Bengali-first education and content</title>
+  <desc id="desc">Original project illustration, not an application screenshot. A triangle, circle and coordinate lines illustrate curiosity and visual learning; the project combines Bengali content, a publishing pipeline and managed batch information.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b2029"/><stop offset="1" stop-color="#102b2d"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#5eead4" stop-opacity=".1"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#99f6e4" stroke-opacity=".055" fill="none"/></pattern>
+    <style>text{font-family:Inter,'Segoe UI',Arial,sans-serif}.trace{stroke-dasharray:4 9;animation:trace 25s linear infinite}.point{animation:pulse 5s ease-in-out infinite}@keyframes trace{to{stroke-dashoffset:-130}}@keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.trace,.point{animation:none!important}}</style>
+  </defs>
+  <rect width="1280" height="280" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="278" rx="19" fill="none" stroke="#5eead4" stroke-opacity=".2"/>
+  <ellipse cx="1030" cy="129" rx="270" ry="147" fill="url(#aura)"/>
+  <text x="48" y="47" fill="#78c5bb" font-size="12" font-weight="600" letter-spacing="2.3">02 / BENGALI-FIRST LEARNING</text>
+  <text x="45" y="124" fill="#effaf5" font-size="61" font-weight="700" letter-spacing="-2">Math Academy</text>
+  <text x="48" y="166" fill="#a1c6c4" font-size="21">Content, clarity &amp; a little curiosity.</text>
+  <path d="M48 201h510" stroke="#5eead4" stroke-opacity=".16"/>
+  <text x="48" y="237" fill="#99c9c1" font-size="13" letter-spacing=".6">PUBLISHING</text><text x="160" y="237" fill="#577b7e" font-size="14">/</text>
+  <text x="183" y="237" fill="#99c9c1" font-size="13" letter-spacing=".6">MANAGED DATA</text><text x="327" y="237" fill="#577b7e" font-size="14">/</text>
+  <text x="350" y="237" fill="#99c9c1" font-size="13" letter-spacing=".6">INTERACTION</text>
+  <rect x="779" y="29" width="430" height="224" rx="13" fill="url(#grid)"/>
+  <path d="M810 216h361m-326 20V50" fill="none" stroke="#7aaba9" stroke-opacity=".3"/>
+  <circle cx="1020" cy="143" r="87" fill="none" stroke="#5eead4" stroke-opacity=".17" class="trace"/>
+  <path d="M866 211h233V75Z" fill="#5eead4" fill-opacity=".025" stroke="#96e4d5" stroke-width="1.7" stroke-linejoin="round"/>
+  <path d="M1081 211v-18h18" fill="none" stroke="#dac493" stroke-width="1.5"/>
+  <path d="M878 209q55-97 126-41t149-55" fill="none" stroke="#5eead4" stroke-opacity=".25" stroke-width="2"/>
+  <g fill="#c8a977" font-size="16" font-style="italic"><text x="978" y="231">a</text><text x="1116" y="150">b</text><text x="958" y="124">c</text></g>
+  <g fill="#a7f3d0" class="point"><circle cx="866" cy="211" r="4"/><circle cx="1099" cy="211" r="4"/><circle cx="1099" cy="75" r="4"/></g>
+  <text x="1190" y="255" text-anchor="end" fill="#547b7f" font-size="10" letter-spacing="1.4">PROJECT STUDY / 02</text>
+</svg>

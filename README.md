@@ -1,59 +1,201 @@
-<p align="center"><img align="center" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif" /></p>
-<h1 align="center">Hi 👋, I'm Tanver Islam Tonmoy</h1>
-<h3 align="center">A passionate full-stack web Developer and Designer from Bangladesh</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Original, self-hosted profile artwork. No remote stats widgets or copied animations. -->
 
+<a href="https://tonmoy-portfolio-website.web.app/">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/hero-mobile.svg" />
+    <img src="./assets/hero.svg" width="100%" alt="Tanver Islam Tonmoy — full-stack developer and UI/UX designer. Useful software, considered interfaces. Based in Bangladesh; open to engineering opportunities." />
+  </picture>
+</a>
 
-<p align="left"> <a href="https://twitter.com/connect2tonmoy" target="blank"><img src="https://img.shields.io/twitter/follow/connect2tonmoy?logo=twitter&style=for-the-badge" alt="connect2tonmoy" /></a> </p>
-
-- 🔭 I’m currently working on **Web Application**
-
-- 🌱 I’m currently learning **Web Technology**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://tonmoy-portfolio-website.web.app/)
-
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Javascript, CSS and UI/UX**
-
-- 📫 Reach me at E-mail **tonmoyofficial29@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12tcVPBcikN-s_HaD-GdjZrkbygLFv7td/view?usp=share_link)
-
-- ⚡ Fun fact **I like 3d animation**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/tonmoy98981085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tonmoy98981085" height="30" width="40" /></a>
-<a href="https://dev.to/tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tonmoy" height="30" width="40" /></a>
-<a href="https://twitter.com/connect2tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="connect2tonmoy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanverislamtonmoyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanverislamtonmoyofficial" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14840269/tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14840269/tonmoy" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ujuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ujuj" height="30" width="40" /></a>
-<a href="https://fb.com/tanverislamtonmoyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanverislamtonmoyofficial" height="30" width="40" /></a>
-<a href="https://dribbble.com/tonmoy_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tonmoy_official" height="30" width="40" /></a>
-<a href="https://discord.gg/tonmoy#9235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tonmoy#9235" height="30" width="40" /></a>
+<p align="center">
+  <strong>Product-minded engineering. A designer's eye for the details.</strong><br />
+  <sub>Bangladesh · UTC+6 · Open to engineering opportunities and thoughtful collaborations</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/1708539168f87946bc5888f59a74c537f3235d393c97549d6bb62390fdd1b79d/68747470733a2f2f626162656c6a732e696f2f696d672f66617669636f6e2e706e67" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://tonmoy-portfolio-website.web.app/"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://drive.google.com/file/d/12tcVPBcikN-s_HaD-GdjZrkbygLFv7td/view?usp=share_link"><strong>Resume ↗</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:tonmoyofficial29@gmail.com"><strong>Let's talk ↗</strong></a>
+</p>
 
+<p align="center">
+  <a href="#about">About</a> &nbsp; · &nbsp;
+  <a href="#flagship-build">Flagship</a> &nbsp; · &nbsp;
+  <a href="#selected-work">Projects</a> &nbsp; · &nbsp;
+  <a href="#capabilities">Capabilities</a> &nbsp; · &nbsp;
+  <a href="#github-in-3d">3D activity</a> &nbsp; · &nbsp;
+  <a href="#lets-build">Contact</a>
+</p>
 
-<p style="margin-bottom:150px" align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tonmoycoder&show_icons=true&locale=en&layout=compact" alt="tonmoycoder" /></p>
+---
 
-## :chart_with_upwards_trend: Current Stats
+## About
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoycoder&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></p>
+I'm **Tanver Islam Tonmoy**, a full-stack developer and UI/UX designer from Bangladesh. I work where **engineering, visual design and usability** meet—building web applications and exploring local-first native software.
 
-## :chart_with_upwards_trend: Current Strike
-<br />
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoycoder&" alt="tonmoycoder" /></p>
+I care about what happens after the first impression: understandable interfaces, useful loading and error states, maintainable components, and clear boundaries between what a product promises and what it actually does.
 
+> Useful first. Considered in the details. Built to keep improving.
 
-  ## :trophy: Git profile Trophies
+- **Design with intent.** Visual hierarchy, responsive layouts and motion that supports the task.
+- **Connect the pieces.** Frontend, APIs, data models and content workflows—not just isolated screens.
+- **Refine the experience.** Keyboard flows, recovery paths, edge cases and the details that make software feel considered.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoycoder&layout=compact&theme=algolia" alt="tonmoycoder" /></a> </p>
+## Flagship build
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<a href="https://github.com/tonmoycoder/VaultZero">
+  <img src="./assets/vaultzero.svg" width="100%" alt="VaultZero — an illustrated overview of a local-first credential workspace built with Rust, Tauri and React." />
+</a>
+
+### VaultZero
+
+**Exploring privacy-focused software as a product experience.**
+
+A password-manager project combining a Rust core, Tauri desktop integration and a React/TypeScript interface. The work brings together encrypted local storage, recovery flows and a calm, bilingual credential workspace.
+
+- Local vault, search and credential management
+- TOTP, CSV import and recovery-key flows
+- OCR and QR-transfer experiments
+- English and বাংলা interface support
+
+**Built with:** `Rust` · `Tauri 2` · `React` · `TypeScript`
+
+The repository includes separate core modules, native IPC, browser and native storage paths, Rust tests, browser tests and build/release workflows.
+
+**[Explore the source ↗](https://github.com/tonmoycoder/VaultZero)** &nbsp; · &nbsp; **[Releases ↗](https://github.com/tonmoycoder/VaultZero/releases)** &nbsp; · &nbsp; **[Security notes ↗](https://github.com/tonmoycoder/VaultZero/blob/main/SECURITY.md)**
+
+<sub>Active development. Security-sensitive features are experimental; this profile does not claim an independent security audit. Review the implementation and its limitations before relying on it.</sub>
+
+## Selected work
+
+### Math Academy · Darshana
+
+<a href="https://github.com/tonmoycoder/Math-Academy-Darsana">
+  <img src="./assets/math-academy.svg" width="100%" alt="Math Academy — an illustrated overview of a Bengali-first education website, content publishing system and interactive mathematics studies." />
+</a>
+
+**A Bengali-first learning experience, built around a local academy's needs.**
+
+A mobile-first website for a mathematics academy in Darshana, Chuadanga: interactive learning sections, managed batch information and a Markdown-backed educational blog. A Python publishing pipeline works alongside a Node.js API and Neon Postgres content layer.
+
+- Bengali content, responsive layouts and visual learning interactions
+- Editable batch, fee and seat information, with API validation
+- Generated blog routes, metadata and a downloadable resource section
+- Local API contract tests and documented deployment checks
+
+`JavaScript` · `CSS` · `Python` · `Node.js` · `Neon Postgres` · `Vercel`
+
+**[Source & setup ↗](https://github.com/tonmoycoder/Math-Academy-Darsana)** &nbsp; · &nbsp; **[Deployment notes ↗](https://github.com/tonmoycoder/Math-Academy-Darsana/blob/main/docs/DEPLOY-VERCEL.md)**
+
+### Bismillah Pakhi & Aquarium
+
+<a href="https://github.com/tonmoycoder/Pet-Shot-Full-Stack">
+  <img src="./assets/petshop.svg" width="100%" alt="Bismillah Pakhi and Aquarium — an illustrated overview of a bilingual pet catalogue and content-management platform." />
+</a>
+
+**A storefront that connects product presentation with content management.**
+
+A CMS-powered pet catalogue and enquiry platform. Next.js and Payload connect the public-facing experience to structured product, animal, media and blog content—with Bengali/English fields and an administrative editing workflow.
+
+- Product and animal discovery, detail pages and shortlist interactions
+- Payload collections, PostgreSQL data and media management
+- Search, contact workflows and bilingual content
+- Playwright coverage for selected interface flows
+
+`Next.js` · `TypeScript` · `Payload CMS` · `PostgreSQL` · `Tailwind CSS`
+
+**[Explore the source ↗](https://github.com/tonmoycoder/Pet-Shot-Full-Stack)**
+
+<details>
+  <summary><strong>Earlier work & interface experiments</strong></summary>
+
+These are learning projects, not substitutes for the current work above.
+
+- **[Doctors Portal](https://github.com/tonmoycoder/doctors-portal-client-side-practice)** — appointment, dashboard and payment-interface studies. [Server source](https://github.com/tonmoycoder/doctors-portal-server).
+- **[Learning Platform](https://github.com/tonmoycoder/Learning-Platform)** — course browsing, Firebase authentication and protected-route practice.
+- **[Harper Courier](https://github.com/tonmoycoder/Harper-Client-Side)** — service reviews and CRUD workflows.
+- **[Number-to-word converter](https://github.com/tonmoycoder/Number-To-Word-Converter)** — a small JavaScript utility experiment.
+- **[More repositories](https://github.com/tonmoycoder?tab=repositories)** — the rest of the learning trail.
+
+</details>
+
+## Capabilities
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Frontend & product UI</h3>
+      <p><strong>React · Next.js · TypeScript · JavaScript</strong></p>
+      <p>Responsive component architecture, CSS/Tailwind, visual hierarchy, motion and accessibility-conscious interaction design.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend & content</h3>
+      <p><strong>Node.js · Express · PostgreSQL · MongoDB</strong></p>
+      <p>API integration, data modelling, Payload CMS, Firebase authentication and managed content workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Native & local-first</h3>
+      <p><strong>Rust · Tauri · Encrypted storage</strong></p>
+      <p>Exploring native application boundaries, offline-first workflows and understandable recovery experiences.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Design & delivery</h3>
+      <p><strong>Figma · Git · Playwright · GitHub Actions</strong></p>
+      <p>Interface studies, design-to-code iteration, automated checks and documented deployment workflows.</p>
+    </td>
+  </tr>
+</table>
+
+## How I build
+
+<p align="center">
+  <kbd>UNDERSTAND</kbd> → <kbd>STRUCTURE</kbd> → <kbd>DESIGN</kbd> → <kbd>BUILD</kbd> → <kbd>VERIFY</kbd>
+</p>
+
+1. **Start with the problem.** Understand the user, the friction and the constraints before choosing a framework.
+2. **Connect design and architecture.** Make visual decisions work with the data model, component boundaries and performance budget.
+3. **Test the uncomfortable paths.** Loading, failure, recovery, keyboard use and small screens belong in the product—not in an afterthought.
+
+## Proof of work
+
+| What to inspect | A place to start |
+| :--- | :--- |
+| Local-first application architecture | [VaultZero's Rust core](https://github.com/tonmoycoder/VaultZero/tree/main/crates/vault-core) and [frontend storage paths](https://github.com/tonmoycoder/VaultZero/blob/main/src/lib/storage.ts) |
+| Content modelling and full-stack integration | [Pet platform collections](https://github.com/tonmoycoder/Pet-Shot-Full-Stack/tree/main/src/collections) and [application routes](https://github.com/tonmoycoder/Pet-Shot-Full-Stack/tree/main/src/app) |
+| Publishing pipelines and API contracts | [Math Academy's build pipeline](https://github.com/tonmoycoder/Math-Academy-Darsana/blob/main/_src/build.py) and [API tests](https://github.com/tonmoycoder/Math-Academy-Darsana/blob/main/tests/api.test.mjs) |
+
+## GitHub in 3D
+
+<a href="https://github.com/tonmoycoder?tab=overview">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="An original isometric city of Tonmoy's publicly visible GitHub contributions. Each building represents one day; height reflects its contribution count." />
+</a>
+
+<p align="center">
+  <sub>One year, one day at a time. Contribution height is activity—not a measure of code quality.</sub><br />
+  <sub>Self-hosted SVG · Public calendar data · Daily workflow · No personal access token</sub><br />
+  <sub><a href="./docs/PROFILE.md">How this profile is built ↗</a></sub>
+</p>
+
+## Let's build
+
+**Have a useful product to build—and care how it feels to use?**
+
+I'm interested in product-focused frontend/full-stack engineering, design systems, creative interfaces and local-first applications. I enjoy work where engineering quality and visual craft are treated as parts of the same product.
+
+**[Email me ↗](mailto:tonmoyofficial29@gmail.com)** &nbsp; · &nbsp; **[Connect on LinkedIn ↗](https://www.linkedin.com/in/tanverislamtonmoyofficial/)** &nbsp; · &nbsp; **[Explore my portfolio ↗](https://tonmoy-portfolio-website.web.app/)**
+
+---
+
+<p align="center">
+  <a href="https://dev.to/tonmoy">Dev.to</a> &nbsp; / &nbsp;
+  <a href="https://codepen.io/tonmoy98981085">CodePen</a> &nbsp; / &nbsp;
+  <a href="https://stackoverflow.com/users/14840269/tonmoy">Stack Overflow</a> &nbsp; / &nbsp;
+  <a href="https://dribbble.com/tonmoy_official">Dribbble</a>
+</p>
+
+<p align="center">
+  <strong>Designed & built by Tanver Islam Tonmoy.</strong><br />
+  <sub>Useful first. Better with every iteration.</sub>
+</p>
