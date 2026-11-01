@@ -1,0 +1,66 @@
+name: Render 3D contribution city
+
+on:
+  schedule:
+    # 18:25 UTC is approximately 00:25 Bangladesh time the following day.
+    # Scheduled workflows can be delayed by GitHub; this is not an exact timer.
+    - cron: "25 18 * * *"
+  workflow_dispatch:
+
+# No implicit permissions for any job. The publishing job needs contents: write.
+permissions: {}
+
+concurrency:
+  group: profile-3d-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  render:
+    name: Render and publish the public contribution calendar
+    if: github.ref_type == 'branch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    env:
+      PROFILE_OWNER: ${{ github.repository_owner }}
+      PROFILE_BRANCH: ${{ github.ref_name }}
+
+    steps:
+      - name: Check out this branch without persisting a credential
+        # actions/checkout v7.0.1, verified against the upstream release tag.
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+
+      - name: Validate the renderer and profile assets
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Render from the unauthenticated public GitHub calendar
+        # The renderer uses only Python's standard library; no token is passed.
+        run: python3 scripts/render_contributions.py --username "$PROFILE_OWNER"
+
+      - name: Commit only the generated SVG, if it changed
+        env:
+          # Automatically created by GitHub, scoped to this repo and short-lived.
+          # Not a PAT. Used only by gh's Git credential helper in this step.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- profile-3d-contrib/profile-night-rainbow.svg
+
+          if git diff --cached --quiet; then
+            echo "Public calendar unchanged; nothing to publish."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(profile): refresh contribution city [skip ci]"
+
+          # No token in the remote URL, command arguments or persisted Git config.
+          # A non-fast-forward push fails safely; never force-push over edits.
+          git -c credential.helper= \
+              -c 'credential.helper=!gh auth git-credential' \
+              push origin "HEAD:${PROFILE_BRANCH}"

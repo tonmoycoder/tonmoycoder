@@ -1,0 +1,14 @@
+# Local tooling, credentials and preview artifacts
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.artifacts/
+node_modules/
+playwright-report/
+test-results/
+*.tmp
+.DS_Store

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+  <title id="title">Tanver Islam Tonmoy — full-stack developer and UI/UX designer</title>
+  <desc id="desc">An original cinematic workspace illustration. Useful software, considered interfaces. Bangladesh, UTC+6. Open to engineering opportunities. Decorative motion respects reduced-motion preferences; all text is visible without animation.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080b18"/><stop offset="1" stop-color="#10142a"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#7c3aed" stop-opacity=".26"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="aqua"><stop stop-color="#22d3ee" stop-opacity=".14"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ink"><stop stop-color="#f8faff"/><stop offset=".6" stop-color="#e9dfff"/><stop offset="1" stop-color="#b4eeff"/></linearGradient>
+    <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#a78bfa" stop-opacity=".8"/><stop offset=".5" stop-color="#67e8f9" stop-opacity=".23"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".5"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".055"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dy="18" stdDeviation="20" flood-color="#02040d" flood-opacity=".6"/></filter>
+    <clipPath id="bounds"><rect width="1280" height="560" rx="24"/></clipPath>
+    <style>
+      text{font-family:Inter,'Segoe UI',Arial,sans-serif}
+      .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+      .enter{animation:enter 1s ease-out both}
+      .float{animation:float 8s ease-in-out infinite}
+      .float-slow{animation:float 10s -3s ease-in-out infinite}
+      .signal{animation:signal 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .trace{stroke-dasharray:5 11;animation:trace 30s linear infinite}
+      @keyframes enter{from{opacity:.15;transform:translateY(8px)}to{opacity:1;transform:none}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+      @keyframes signal{0%,100%{opacity:.55}50%{opacity:1}}
+      @keyframes trace{to{stroke-dashoffset:-160}}
+      @media(prefers-reduced-motion:reduce){.enter,.float,.float-slow,.signal,.trace{animation:none!important}}
+    </style>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="560" fill="url(#bg)"/>
+    <rect width="1280" height="560" fill="url(#grid)"/>
+    <ellipse cx="150" cy="80" rx="390" ry="310" fill="url(#aura)"/>
+    <ellipse cx="1040" cy="350" rx="400" ry="310" fill="url(#aqua)"/>
+    <path d="M650 560 1280 60M790 560 1280 210M935 560 1280 355" stroke="#818cf8" stroke-opacity=".045"/>
+    <g fill="#c4b5fd" opacity=".5"><circle cx="620" cy="68" r="1.5"/><circle cx="676" cy="440" r="1.5"/><circle cx="1188" cy="478" r="1.5"/><circle cx="1140" cy="38" r="1"/></g>
+    <rect x="1" y="1" width="1278" height="558" rx="23" fill="none" stroke="url(#edge)" stroke-opacity=".55"/>
+
+    <g class="enter">
+      <path d="M64 49h24m-12 0v22" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+      <text x="102" y="65" fill="#d4d9e9" font-size="13" font-weight="600" letter-spacing="2.4">TONMOY / LAB</text>
+      <text x="64" y="121" fill="#a78bfa" font-size="12" font-weight="600" letter-spacing="2.5">FULL-STACK DEVELOPER · UI/UX DESIGNER</text>
+      <text x="59" y="200" fill="url(#ink)" font-size="69" font-weight="750" letter-spacing="-2.6">Tanver Islam</text>
+      <text x="57" y="288" fill="url(#ink)" font-size="91" font-weight="800" letter-spacing="-4.5">Tonmoy.</text>
+      <text x="64" y="341" fill="#eef2ff" font-size="23" font-weight="500">I build useful software.</text>
+      <text x="64" y="373" fill="#a3adc6" font-size="20">With a designer's eye for the details.</text>
+
+      <rect x="64" y="412" width="258" height="39" rx="10" fill="#34d399" fill-opacity=".07" stroke="#34d399" stroke-opacity=".3"/>
+      <circle cx="84" cy="431.5" r="4" fill="#6ee7b7" class="signal"/>
+      <text x="99" y="436" fill="#b0efda" font-size="12.5">Open to engineering opportunities</text>
+      <text x="344" y="436" fill="#a3adc6" font-size="12.5">Bangladesh · UTC+6</text>
+      <text x="64" y="505" fill="#8b96b2" font-size="10.5" letter-spacing="2" class="mono">DESIGN</text>
+      <path d="M126 501h24m-4-4 4 4-4 4" stroke="#58647f" fill="none"/>
+      <text x="167" y="505" fill="#8b96b2" font-size="10.5" letter-spacing="2" class="mono">BUILD</text>
+      <path d="M220 501h24m-4-4 4 4-4 4" stroke="#58647f" fill="none"/>
+      <text x="261" y="505" fill="#a5e7f5" font-size="10.5" letter-spacing="2" class="mono">REFINE</text>
+    </g>
+
+    <ellipse cx="974" cy="277" rx="267" ry="209" fill="none" stroke="#a78bfa" stroke-opacity=".13" class="trace"/>
+    <ellipse cx="974" cy="277" rx="292" ry="231" fill="none" stroke="#67e8f9" stroke-opacity=".08"/>
+
+    <g class="float" filter="url(#shadow)">
+      <rect x="727" y="92" width="474" height="363" rx="19" fill="#0c1123" stroke="url(#edge)"/>
+      <path d="M747 92h434a20 20 0 0 1 20 20v31H727v-31a20 20 0 0 1 20-20" fill="#ffffff" fill-opacity=".025"/>
+      <path d="M728 143h472" stroke="#ffffff" stroke-opacity=".07"/>
+      <g><circle cx="752" cy="118" r="4" fill="#fb7185"/><circle cx="767" cy="118" r="4" fill="#fbbf24"/><circle cx="782" cy="118" r="4" fill="#34d399"/></g>
+      <text x="806" y="122" fill="#8995b2" font-size="11" class="mono">tonmoy.workspace</text>
+      <text x="1143" y="122" fill="#7e8aa9" font-size="10" class="mono">01 / 03</text>
+
+      <rect x="745" y="160" width="64" height="276" rx="10" fill="#ffffff" fill-opacity=".022"/>
+      <rect x="757" y="176" width="40" height="37" rx="8" fill="#a78bfa" fill-opacity=".13" stroke="#a78bfa" stroke-opacity=".22"/>
+      <path d="m771 188-5 6 5 6m12-12 5 6-5 6m-7-14-3 17" fill="none" stroke="#c4b5fd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="766" y="240" width="22" height="17" rx="3" fill="none" stroke="#55627e" stroke-width="1.5"/><path d="M766 247h22" stroke="#55627e"/>
+      <path d="m777 282 10 6v12l-10 6-10-6v-12Z" fill="none" stroke="#55627e" stroke-width="1.5"/>
+      <path d="M765 334h24m-24 7h16m-16 7h20" stroke="#55627e" stroke-width="1.5" stroke-linecap="round"/>
+      <circle cx="777" cy="412" r="5" fill="#67e8f9" fill-opacity=".7" class="signal"/>
+
+      <text x="832" y="184" fill="#a78bfa" font-size="9.5" font-weight="600" letter-spacing="1.9">AN IDEA, MADE TANGIBLE.</text>
+      <text x="832" y="221" fill="#eef2ff" font-size="23" font-weight="650" letter-spacing="-.6">From interface to system.</text>
+      <g class="mono" font-size="12">
+        <text x="834" y="267" fill="#5c6885">01</text><text x="866" y="267" fill="#c4b5fd">const</text><text x="910" y="267" fill="#67e8f9">approach</text><text x="975" y="267" fill="#b5bdd1">= {</text>
+        <text x="834" y="296" fill="#5c6885">02</text><text x="880" y="296" fill="#e9a5cf">design:</text><text x="940" y="296" fill="#a7dfce">"with intent",</text>
+        <text x="834" y="325" fill="#5c6885">03</text><text x="880" y="325" fill="#e9a5cf">build:</text><text x="932" y="325" fill="#a7dfce">"for people",</text>
+        <text x="834" y="354" fill="#5c6885">04</text><text x="880" y="354" fill="#e9a5cf">refine:</text><text x="940" y="354" fill="#a7dfce">"the details"</text>
+        <text x="834" y="383" fill="#5c6885">05</text><text x="866" y="383" fill="#b5bdd1">};</text>
+      </g>
+      <rect x="889" y="373" width="6" height="12" rx="1" fill="#67e8f9" class="signal"/>
+      <path d="M832 402h346" stroke="#ffffff" stroke-opacity=".06"/>
+      <text x="832" y="424" fill="#7d89a7" font-size="10" class="mono">WEB / NATIVE / PRODUCT UI</text>
+      <circle cx="1167" cy="420" r="3" fill="#a78bfa"/>
+    </g>
+
+    <g class="float-slow" filter="url(#shadow)">
+      <rect x="671" y="378" width="178" height="91" rx="14" fill="#11162b" stroke="#a78bfa" stroke-opacity=".37"/>
+      <text x="690" y="402" fill="#9c8acf" font-size="9" font-weight="650" letter-spacing="1.5">CURRENT EXPLORATION</text>
+      <path d="m696 415 7 4v8l-7 4-7-4v-8Z" fill="none" stroke="#c4b5fd" stroke-width="1.4"/>
+      <text x="714" y="429" fill="#eee8ff" font-size="17" font-weight="650">VaultZero</text>
+      <text x="690" y="450" fill="#8e9bb8" font-size="10">Local-first. Product-minded.</text>
+    </g>
+    <g class="float-slow">
+      <rect x="1071" y="62" width="152" height="51" rx="12" fill="#101b2b" stroke="#67e8f9" stroke-opacity=".3"/>
+      <circle cx="1091" cy="87.5" r="4" fill="#67e8f9" class="signal"/>
+      <text x="1105" y="92" fill="#c6f4ff" font-size="11.5" font-weight="550">DESIGN + CODE</text>
+    </g>
+  </g>
+</svg>

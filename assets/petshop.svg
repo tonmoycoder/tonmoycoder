@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">Bismillah Pakhi and Aquarium — catalogue meets content management</title>
+  <desc id="desc">Original project illustration, not an application screenshot. An abstract aquarium with fish and plants represents the bilingual pet catalogue built with Next.js, Payload CMS and PostgreSQL.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#122226"/><stop offset="1" stop-color="#162f31"/></linearGradient>
+    <linearGradient id="water" x2="0" y2="1"><stop stop-color="#315e5c" stop-opacity=".24"/><stop offset="1" stop-color="#233c40" stop-opacity=".55"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#6ee7b7" stop-opacity=".11"/><stop offset="1" stop-color="#6ee7b7" stop-opacity="0"/></radialGradient>
+    <style>text{font-family:Inter,'Segoe UI',Arial,sans-serif}.swim{animation:swim 10s ease-in-out infinite}.swim-back{animation:swim 12s -5s ease-in-out infinite}.bubble{animation:bubble 7s ease-in-out infinite}@keyframes swim{0%,100%{transform:translateX(0)}50%{transform:translateX(9px)}}@keyframes bubble{0%,100%{opacity:.2;transform:translateY(0)}50%{opacity:.55;transform:translateY(-5px)}}@media(prefers-reduced-motion:reduce){.swim,.swim-back,.bubble{animation:none!important}}</style>
+  </defs>
+  <rect width="1280" height="280" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="278" rx="19" fill="none" stroke="#a3c7b0" stroke-opacity=".22"/>
+  <ellipse cx="1000" cy="148" rx="272" ry="139" fill="url(#aura)"/>
+  <text x="48" y="47" fill="#92b8a5" font-size="12" font-weight="600" letter-spacing="2.3">03 / CATALOGUE MEETS CONTENT</text>
+  <text x="45" y="111" fill="#f0f2e9" font-size="51" font-weight="700" letter-spacing="-1.7">Bismillah Pakhi</text>
+  <text x="45" y="165" fill="#d4e4d5" font-size="47" font-weight="600" letter-spacing="-1.5">&amp; Aquarium</text>
+  <text x="48" y="201" fill="#9dbdb3" font-size="18">A storefront, connected to its CMS.</text>
+  <text x="48" y="245" fill="#a9c8b8" font-size="13" letter-spacing=".6">NEXT.JS</text><text x="134" y="245" fill="#5b7e77" font-size="14">/</text>
+  <text x="157" y="245" fill="#a9c8b8" font-size="13" letter-spacing=".6">PAYLOAD</text><text x="252" y="245" fill="#5b7e77" font-size="14">/</text>
+  <text x="275" y="245" fill="#a9c8b8" font-size="13" letter-spacing=".6">POSTGRESQL</text>
+  <rect x="800" y="35" width="362" height="202" rx="18" fill="url(#water)" stroke="#aadbc6" stroke-opacity=".28"/>
+  <path d="M817 65q43-10 86 0t86 0t86 0t70 0" fill="none" stroke="#a1ded0" stroke-opacity=".24"/>
+  <path d="M818 222q69-19 128-6t94-3t105 6" fill="none" stroke="#91b1a1" stroke-opacity=".3"/>
+  <g fill="none" stroke="#78a995" stroke-width="2" stroke-linecap="round"><path d="M837 220q15-32 3-65m4 39q-18-11-16-25m16 12q18-10 17-25M1119 217q-10-30 3-57m-5 37q-13-13-10-25m12 10q16-7 19-21"/></g>
+  <g class="swim"><path d="M934 114q42-35 81 0-39 35-81 0l-22 18v-36Z" fill="#d5b995"/><path d="m962 91 15 9-23 6" fill="#e8c7a1"/><circle cx="996" cy="112" r="3" fill="#203237"/><path d="M982 103q-10 12 0 23" fill="none" stroke="#8f836d" stroke-opacity=".55"/></g>
+  <g class="swim-back"><path d="M1094 167q-34-27-68 0 34 27 68 0l19 14v-28Z" fill="#9cc4b2"/><circle cx="1042" cy="165" r="2.5" fill="#203237"/></g>
+  <g class="bubble" fill="none" stroke="#badcd0" stroke-opacity=".5"><circle cx="1071" cy="105" r="6"/><circle cx="1082" cy="85" r="3.5"/><circle cx="890" cy="179" r="4"/></g>
+  <path d="M779 56v37m-18-18h36M1185 186v25m-12-13h24" stroke="#b6cbb6" stroke-opacity=".2" stroke-linecap="round"/>
+  <text x="1190" y="255" text-anchor="end" fill="#607f78" font-size="10" letter-spacing="1.4">PROJECT STUDY / 03</text>
+</svg>
