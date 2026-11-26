@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
 <title id="title">tonmoycoder — contribution city</title>
-<desc id="desc">tonmoycoder&#x27;s publicly visible GitHub calendar: 216 contributions across 30 active days, from 2025-11-23 to 2026-11-25. Each building is one day. Height is logarithmically scaled by contribution count; color follows the public calendar level. No activity is fabricated.</desc>
+<desc id="desc">tonmoycoder&#x27;s publicly visible GitHub calendar: 216 contributions across 30 active days, from 2025-11-23 to 2026-11-26. Each building is one day. Height is logarithmically scaled by contribution count; color follows the public calendar level. No activity is fabricated.</desc>
 <defs>
   <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0b1021"/><stop offset="1" stop-color="#101a2c"/></linearGradient>
   <radialGradient id="aura"><stop stop-color="#8b5cf6" stop-opacity=".12"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
@@ -11,7 +11,7 @@
 <ellipse cx="945" cy="285" rx="312" ry="186" fill="url(#aura)"/>
 <text x="48" y="36" fill="#a396ce" font-size="10" font-weight="600" letter-spacing="2.1">PUBLIC GITHUB CALENDAR / SELF-HOSTED</text>
 <text x="46" y="75" fill="#eef2ff" font-size="30" font-weight="650" letter-spacing="-.8">A city of small steps.</text>
-<text x="48" y="100" fill="#7f90b0" font-size="12">23 Nov 2025 — 25 Nov 2026</text>
+<text x="48" y="100" fill="#7f90b0" font-size="12">23 Nov 2025 — 26 Nov 2026</text>
 <text x="862" y="69" text-anchor="middle" fill="#dcd9f5" font-size="26" class="mono">216</text>
 <text x="862" y="91" text-anchor="middle" fill="#7686a4" font-size="9" letter-spacing="1.4">CONTRIBUTIONS</text>
 <text x="1008" y="69" text-anchor="middle" fill="#dcd9f5" font-size="26" class="mono">30</text>
@@ -38,6 +38,7 @@
 <g data-date="2026-11-18" data-count="0" data-level="0" data-height="0.00"><title>2026-11-18: 0 contributions</title><polygon points="1148.40,249.30 1164.40,244.30 1174.40,250.30 1158.40,255.30" fill="#162039" stroke="#1d2a4b" stroke-width=".45"/></g>
 <g data-date="2026-10-11" data-count="0" data-level="0" data-height="0.00"><title>2026-10-11: 0 contributions</title><polygon points="1016.40,249.80 1032.40,244.80 1042.40,250.80 1026.40,255.80" fill="#162039" stroke="#1d2a4b" stroke-width=".45"/></g>
 <g data-date="2026-11-03" data-count="15" data-level="4" data-height="62.41"><title>2026-11-03: 15 contributions</title><polygon points="1097.60,188.29 1107.60,194.29 1107.60,256.70 1097.60,250.70" fill="#2f595a"/><polygon points="1107.60,194.29 1123.60,189.29 1123.60,251.70 1107.60,256.70" fill="#4d9093"/><polygon points="1097.60,188.29 1113.60,183.29 1123.60,189.29 1107.60,194.29" fill="#7ce9ed" stroke="#7ce9ed" stroke-width=".45"/><path class="city-light" d="M1110.60 243.70l3-1 M1116.60 241.70l3-1 M1110.60 233.70l3-1 M1116.60 231.70l3-1 M1110.60 223.70l3-1 M1116.60 221.70l3-1 M1110.60 213.70l3-1 M1116.60 211.70l3-1 M1110.60 203.70l3-1 M1116.60 201.70l3-1" stroke="#e3ffff" stroke-width="1" opacity=".55" style="animation-delay:-3s"/></g>
+<g data-date="2026-11-26" data-count="0" data-level="0" data-height="0.00"><title>2026-11-26: 0 contributions</title><polygon points="1178.80,251.60 1194.80,246.60 1204.80,252.60 1188.80,257.60" fill="#162039" stroke="#1d2a4b" stroke-width=".45"/></g>
 <g data-date="2026-10-19" data-count="0" data-level="0" data-height="0.00"><title>2026-10-19: 0 contributions</title><polygon points="1046.80,252.10 1062.80,247.10 1072.80,253.10 1056.80,258.10" fill="#162039" stroke="#1d2a4b" stroke-width=".45"/></g>
 <g data-date="2026-11-11" data-count="1" data-level="1" data-height="20.10"><title>2026-11-11: 1 contributions</title><polygon points="1128.00,232.90 1138.00,238.90 1138.00,259.00 1128.00,253.00" fill="#12212a"/><polygon points="1138.00,238.90 1154.00,233.90 1154.00,254.00 1138.00,259.00" fill="#1e3644"/><polygon points="1128.00,232.90 1144.00,227.90 1154.00,233.90 1138.00,238.90" fill="#30576e" stroke="#30576e" stroke-width=".45"/><path class="city-light" d="M1141.00 246.00l3-1 M1147.00 244.00l3-1" stroke="#e3ffff" stroke-width="1" opacity=".55" style="animation-delay:-5s"/></g>
 <g data-date="2026-10-04" data-count="8" data-level="3" data-height="50.71"><title>2026-10-04: 8 contributions</title><polygon points="996.00,202.79 1006.00,208.79 1006.00,259.50 996.00,253.50" fill="#3b3158"/><polygon points="1006.00,208.79 1022.00,203.79 1022.00,254.50 1006.00,259.50" fill="#604f90"/><polygon points="996.00,202.79 1012.00,197.79 1022.00,203.79 1006.00,208.79" fill="#9b80e8" stroke="#9b80e8" stroke-width=".45"/><path class="city-light" d="M1009.00 246.50l3-1 M1015.00 244.50l3-1 M1009.00 236.50l3-1 M1015.00 234.50l3-1 M1009.00 226.50l3-1 M1015.00 224.50l3-1 M1009.00 216.50l3-1 M1015.00 214.50l3-1" stroke="#e3ffff" stroke-width="1" opacity=".55" style="animation-delay:-3s"/></g>
